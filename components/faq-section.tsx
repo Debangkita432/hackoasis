@@ -14,12 +14,12 @@ export default function FAQSection() {
     {
       question: "Who can participate in HACKOASIS 2.0?",
       answer:
-        "The hackathon is open to all college students, regardless of their field of study or experience level. Whether you're a beginner or an experienced developer, you're welcome to participate.",
+        "The hackathon is open to all college students, regardless of their field of study or experience level. Whether you're a beginner or an experienced developer, you're welcome to participate for IEM HACKOASIS 2.0.",
     },
     {
       question: "What is the team size limit?",
       answer:
-        "Teams can have a minimum of 2 members and a maximum of 4 members. You can form teams with participants from different colleges and backgrounds.",
+        "Teams can have a minimum of 2 members and a maximum of 4 members. You can form teams with participants from different colleges.",
     },
     {
       question: "Is there a registration fee?",
@@ -49,12 +49,12 @@ export default function FAQSection() {
     {
       question: "Can I start working on my project before the hackathon?",
       answer:
-        "No, all development work must be done during the hackathon hours. However, you can come with ideas, research, and planning done beforehand.",
+        "No, all development work must be done during the hackathon hours. Problem Statements will be given on the day of the hackathon.",
     },
     {
       question: "What if I don't have a team?",
       answer:
-        "Don't worry! We'll have team formation sessions at the beginning of the event where you can meet other participants and form teams based on complementary skills and interests.",
+        "Don't worry reach out to the student coorinators we will help you finding a team.",
     },
     {
       question: "Are there any specific technologies we must use?",
