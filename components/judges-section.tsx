@@ -124,11 +124,11 @@ export default function JudgesSection() {
               src={person.image || "/placeholder.svg"}
               alt={person.name}
               fill
-              className={`object-contain object-center w-full h-full ${person.image?.includes("comingsoon") ? "bg-black" : ""}`}
+              className={`object-contain object-center w-full h-full ${person.image?.includes("comingsooon") ? "bg-black" : ""}`}
               sizes="(min-width:1024px) 9rem, (min-width:640px) 8rem, 7rem"
-              priority={person.image?.includes("comingsoon")}
+              priority={person.image?.includes("comingsooon")}
             />
-            {person.image?.includes("comingsoon") && (
+            {person.image?.includes("comingsooon") && (
               <span className="absolute inset-0 flex items-center justify-center text-white text-lg font-bold bg-black/60">
                 Coming Soon
               </span>
@@ -152,7 +152,7 @@ export default function JudgesSection() {
                 rel="noopener noreferrer"
                 onClick={e => e.stopPropagation()}
               >
-                <Linkedin size={20} />
+                <Linkedin size={24} /> {/* Increased size for better visibility */}
               </a>
             )}
             {person.instagram && person.instagram !== "#" && (
@@ -164,7 +164,7 @@ export default function JudgesSection() {
                 rel="noopener noreferrer"
                 onClick={e => e.stopPropagation()}
               >
-                <Instagram size={20} />
+                <Instagram size={24} /> {/* Increased size for better visibility */}
               </a>
             )}
           </div>
