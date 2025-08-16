@@ -26,8 +26,8 @@ export default function JudgesSection() {
   ]
 
   const facultyCoordinators = [
-    { name: "Prof.Subhabrata Sengupta", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/senior-male-computer-science-professor.png", linkedin: "#" },
-    { name: "Prof.Avijit Bose", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/placeholder-0plla.png", linkedin: "#" },
+    { name: "Prof.Subhabrata Sengupta", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/senior-male-computer-science-professor.png", linkedin: "https://www.linkedin.com/in/subhabrata-sengupta-738b0b63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+    { name: "Prof.Avijit Bose", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/placeholder-0plla.png", linkedin: "https://www.linkedin.com/in/avijit-bose-29328977?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
   ]
 
   const coordinators = [
