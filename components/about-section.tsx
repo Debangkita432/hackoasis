@@ -37,12 +37,12 @@ export default function AboutSection() {
       <div className={`container mx-auto px-4 sm:px-6 lg:px-8 ${orbitron.className}`}>
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 text-gradient">
-            About HACKOASIS 2.0
+              About IEM HACKOASIS 2.0
           </h2>
           <p className="text-lg sm:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            HackOasis 2.0 is an inter and intra college hackathon, an 8 hour offline on-campus sprint
+            HackOasis 2.0 is an inter and intra college hackathon, a 9 hour offline on-campus sprint
             where teams of 2 to 4 build real world prototypes across AI and ML, Web and App, AR and VR,
-            IoT, and Cybersecurity. Open to all branches and years, with on-spot problem statements,
+            IoT, and Cybersecurity. Open to all undergraduate colleges, with on-spot problem statements,
             expert mentoring, certificates, prizes, internship opportunities, and networking.
             Limited seats — register now.
           </p>
