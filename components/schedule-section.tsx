@@ -35,14 +35,8 @@ export default function ScheduleSection() {
       icon: Coffee,
     },
     {
-      time: "1:00 PM",
-      title: "Mentoring Round 1",
-      description: "Expert mentors provide guidance",
-      icon: Users,
-    },
-    {
       time: "3:00 PM",
-      title: "Mentoring Round 2",
+      title: "Mentoring Round 1",
       description: "Final guidance and project refinement",
       icon: Users,
     },
@@ -74,7 +68,7 @@ export default function ScheduleSection() {
             Event Schedule
           </h2>
           <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto">
-            A carefully planned 8-hour journey from ideation to implementation
+            A 9-hour coding journey from ideation to implementation
           </p>
         </div>
 
