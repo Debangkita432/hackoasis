@@ -31,21 +31,21 @@ export default function JudgesSection() {
   ]
 
   const coordinators = [
-    { name: "Debangshu Chatterjee", role: "Website Development", image: "/placeholder-y3kya.png", linkedin: "https://www.linkedin.com/in/debangshu-chatterjee-858859282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/little.dreams.s?igsh=emE0c3YwczBtdTlk" },
-    { name: "Debangkita Saha", role: "Website Development", image: "/young-female-marketing-student.png", linkedin: "https://www.linkedin.com/in/debangkita-saha-304a3b290/", instagram: "https://www.instagram.com/_urochithii___?utm_source=qr&igsh=MTZ2OWt1Y2pzN2xycQ==" },
-    { name: "Sreyasi Mondal", role: "Registration and Database", image: "/young-male-technical-student.png", linkedin: "https://www.linkedin.com/in/sreyasi-mondal-7337782b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/sreyasi796?igsh=a3V2MW9mOTRkOWkx" },
-    { name: "Debayan De", role: "Research and Development", image: "/young-female-operations-student.png", linkedin: "https://www.linkedin.com/in/debayan-de-a4322728b", instagram: "#" },
-    { name: "Pankaj Gop", role: "Research and Development", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/pankaj-gop-9b606228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/little.dreams.s?igsh=emE0c3YwczBtdTlk" },
-    { name: "Kartik Tulsian", role: "Research and Development", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/kartik-tulsian-682a6128a", instagram: "#" },
-    { name: "Abhijeet Kumar", role: "Logistics", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/abhijeet-kumar-4033b1291", instagram: "#" },
-    { name: "Aritra Chowdhury", role: "Logistics", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/aritra-chowdhury-82201228b/", instagram: "https://www.instagram.com/aritra_rick.c?igsh=MWlyaWN4NjQ3bm5tcA==" },
-    { name: "Kaustav Saha", role: "Logistics", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/kaustav-saha-4b194b28a", instagram: "https://www.instagram.com/__k_a_u_s_t_a_v_?igsh=eHV2ZTQ2MmFzM3dt" },
-    { name: "Praroop Anand", role: "Calling and Mailing", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/praroop-anand-483a13301/", instagram: "https://www.instagram.com/_.praroop._?igsh=MXJkdDV2ZjAxNnIxZA%3D%3D&utm_source=qr" },
-    { name: "Ariktam De", role: "Calling and Mailing", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "Alokita Dutta", role: "Public Relation", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/alokita-dutta-9b80a628b/", instagram: "https://www.instagram.com/alokitadutta22/" },
-    { name: "Ananya Mukhopadhyay", role: "Public Relation", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/ananya-mukhopadhyay-4b4b0528a/", instagram: "https://www.instagram.com/a_soulful_voice_20/" },
-    { name: "Anubrata Guin", role: "Graphics and Video Editing", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/anubrata-guin/", instagram: "#" },
-    { name: "Eshita Talukdar", role: "Graphics and Video Editing", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/eshita-talukdar-2a201a28b/", instagram: "https://www.instagram.com/eshitatalukdar/" },
+    { name: "Debangshu Chatterjee", role: "Website Development", image: "/Debangshu.jfif", linkedin: "https://www.linkedin.com/in/debangshu-chatterjee-858859282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/little.dreams.s?igsh=emE0c3YwczBtdTlk" },
+    { name: "Debangkita Saha", role: "Website Development", image: "/debangkita.jpeg", linkedin: "https://www.linkedin.com/in/debangkita-saha-304a3b290/", instagram: "https://www.instagram.com/_urochithii___?utm_source=qr&igsh=MTZ2OWt1Y2pzN2xycQ==" },
+    { name: "Sreyasi Mondal", role: "Registration and Database", image: "/sreyasi.jpg", linkedin: "https://www.linkedin.com/in/sreyasi-mondal-7337782b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/sreyasi796?igsh=a3V2MW9mOTRkOWkx" },
+    { name: "Debayan De", role: "Research and Development", image: "/Debayan_De.jpg", linkedin: "https://www.linkedin.com/in/debayan-de-a4322728b", instagram: "#" },
+    { name: "Pankaj Gop", role: "Research and Development", image: "/Pankaj Gop.png", linkedin: "https://www.linkedin.com/in/pankaj-gop-9b606228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/little.dreams.s?igsh=emE0c3YwczBtdTlk" },
+    { name: "Kartik Tulsian", role: "Research and Development", image: "/Kartik Tulsian.jpg", linkedin: "https://www.linkedin.com/in/kartik-tulsian-682a6128a", instagram: "#" },
+    { name: "Abhijeet Kumar", role: "Logistics", image: "/Abhijeet_Kumar (1).jpg", linkedin: "https://www.linkedin.com/in/abhijeet-kumar-4033b1291", instagram: "#" },
+    { name: "Aritra Chowdhury", role: "Logistics", image: "/Aritra Chowdhury.jpg", linkedin: "https://www.linkedin.com/in/aritra-chowdhury-82201228b/", instagram: "https://www.instagram.com/aritra_rick.c?igsh=MWlyaWN4NjQ3bm5tcA==" },
+    { name: "Kaustav Saha", role: "Logistics", image: "/Kaustav Saha.jpg", linkedin: "https://www.linkedin.com/in/kaustav-saha-4b194b28a", instagram: "https://www.instagram.com/__k_a_u_s_t_a_v_?igsh=eHV2ZTQ2MmFzM3dt" },
+    { name: "Praroop Anand", role: "Calling and Mailing", image: "/Praroop Anand.jpg", linkedin: "https://www.linkedin.com/in/praroop-anand-483a13301/", instagram: "https://www.instagram.com/_.praroop._?igsh=MXJkdDV2ZjAxNnIxZA%3D%3D&utm_source=qr" },
+    { name: "Ariktam De", role: "Calling and Mailing", image: "/ariktam.png", linkedin: "#", instagram: "#" },
+    { name: "Alokita Dutta", role: "Public Relation", image: "/AlokitaDutta (1).JPG", linkedin: "https://www.linkedin.com/in/alokita-dutta-9b80a628b/", instagram: "https://www.instagram.com/alokitadutta22/" },
+    { name: "Ananya Mukhopadhyay", role: "Public Relation", image: "/Ananya Mukhopadhyay (1).jpg", linkedin: "https://www.linkedin.com/in/ananya-mukhopadhyay-4b4b0528a/", instagram: "https://www.instagram.com/a_soulful_voice_20/" },
+    { name: "Anubrata Guin", role: "Graphics and Video Editing", image: "/Anubrata Guin (1).png", linkedin: "https://www.linkedin.com/in/anubrata-guin/", instagram: "#" },
+    { name: "Eshita Talukdar", role: "Graphics and Video Editing", image: "/Eshita Talukdar.jpg", linkedin: "https://www.linkedin.com/in/eshita-talukdar-2a201a28b/", instagram: "https://www.instagram.com/eshitatalukdar/" },
   ]
 
   // Phone detection (Tailwind "sm" ~640px)
