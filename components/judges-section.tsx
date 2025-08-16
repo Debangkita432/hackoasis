@@ -26,12 +26,12 @@ export default function JudgesSection() {
   ]
 
   const facultyCoordinators = [
-    { name: "Prof.Subhabrata Sengupta", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/senior-male-computer-science-professor.png", linkedin: "https://www.linkedin.com/in/subhabrata-sengupta-738b0b63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
-    { name: "Prof.Avijit Bose", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/placeholder-0plla.png", linkedin: "https://www.linkedin.com/in/avijit-bose-29328977?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+    { name: "Prof.Subhabrata Sengupta", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/Avijit.jpg", linkedin: "https://www.linkedin.com/in/subhabrata-sengupta-738b0b63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+    { name: "Prof.Avijit Bose", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/Subhabrata.jpg", linkedin: "https://www.linkedin.com/in/avijit-bose-29328977?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
   ]
 
   const coordinators = [
-    { name: "Debangshu Chatterjee", role: "Website Development", image: "/Debangshu.jfif", linkedin: "https://www.linkedin.com/in/debangshu-chatterjee-858859282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/little.dreams.s?igsh=emE0c3YwczBtdTlk" },
+    { name: "Debangshu Chatterjee", role: "Website Development", image: "/Debangshu.jpg", linkedin: "https://www.linkedin.com/in/debangshu-chatterjee-858859282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/little.dreams.s?igsh=emE0c3YwczBtdTlk" },
     { name: "Debangkita Saha", role: "Website Development", image: "/debangkita.jpeg", linkedin: "https://www.linkedin.com/in/debangkita-saha-304a3b290/", instagram: "https://www.instagram.com/_urochithii___?utm_source=qr&igsh=MTZ2OWt1Y2pzN2xycQ==" },
     { name: "Sreyasi Mondal", role: "Registration and Database", image: "/sreyasi.jpg", linkedin: "https://www.linkedin.com/in/sreyasi-mondal-7337782b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/sreyasi796?igsh=a3V2MW9mOTRkOWkx" },
     { name: "Debayan De", role: "Research and Development", image: "/Debayan_De.jpg", linkedin: "https://www.linkedin.com/in/debayan-de-a4322728b", instagram: "#" },
