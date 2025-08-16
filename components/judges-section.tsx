@@ -14,15 +14,15 @@ const orbitron = Orbitron({
 
 export default function JudgesSection() {
   const judges = [
-    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsooon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsooon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsooon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsooon.png", linkedin: "#" },
   ]
 
   const mentors = [
-    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsooon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsooon.png", linkedin: "#" },
   ]
 
   const facultyCoordinators = [
