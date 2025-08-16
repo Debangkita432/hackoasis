@@ -26,8 +26,8 @@ export default function JudgesSection() {
   ]
 
   const facultyCoordinators = [
-    { name: "Prof.Subhabrata Sengupta", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/Avijit.jpg", linkedin: "https://www.linkedin.com/in/subhabrata-sengupta-738b0b63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
-    { name: "Prof.Avijit Bose", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/Subhabrata.jpg", linkedin: "https://www.linkedin.com/in/avijit-bose-29328977?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+    { name: "Prof.Subhabrata Sengupta", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/Subhabrata.jpg", linkedin: "https://www.linkedin.com/in/subhabrata-sengupta-738b0b63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+    { name: "Prof.Avijit Bose", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/Avijit.jpg", linkedin: "https://www.linkedin.com/in/avijit-bose-29328977?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
   ]
 
   const coordinators = [
@@ -150,6 +150,7 @@ export default function JudgesSection() {
                 className="text-muted-foreground hover:text-primary transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"
+                onClick={e => e.stopPropagation()}
               >
                 <Linkedin size={20} />
               </a>
@@ -161,6 +162,7 @@ export default function JudgesSection() {
                 className="text-muted-foreground hover:text-primary transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"
+                onClick={e => e.stopPropagation()}
               >
                 <Instagram size={20} />
               </a>
