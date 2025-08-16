@@ -14,38 +14,38 @@ const orbitron = Orbitron({
 
 export default function JudgesSection() {
   const judges = [
-    { name: "ABC", title: "ABC", company: "ABC", image: "/professional-male-software-engineer.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", company: "ABC", image: "/professional-female-ai-researcher.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", company: "ABC", image: "/placeholder-iockg.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", company: "ABC", image: "/female-computer-science-professor.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
   ]
 
   const mentors = [
-    { name: "ABC", title: "ABC", company: "ABC", image: "/placeholder-ie1iu.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", company: "ABC", image: "/professional-female-ux-designer.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
+    { name: "ABC", title: "ABC", company: "ABC", image: "/comingsoon.png", linkedin: "#" },
   ]
 
   const facultyCoordinators = [
-    { name: "ABC", title: "ABC", department: "ABC", image: "/senior-male-computer-science-professor.png", linkedin: "#" },
-    { name: "ABC", title: "ABC", department: "ABC", image: "/placeholder-0plla.png", linkedin: "#" },
+    { name: "Prof.Subhabrata Sengupta", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/senior-male-computer-science-professor.png", linkedin: "#" },
+    { name: "Prof.Avijit Bose", title: "Faculty Coordinator", department: "Computer Science and Engineering", image: "/placeholder-0plla.png", linkedin: "#" },
   ]
 
   const coordinators = [
-    { name: "ABC", role: "ABC", image: "/placeholder-y3kya.png", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/young-female-marketing-student.png", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/young-male-technical-student.png", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/young-female-operations-student.png", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
-    { name: "ABC", role: "ABC", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
+    { name: "Debangshu Chatterjee", role: "Website Development", image: "/placeholder-y3kya.png", linkedin: "https://www.linkedin.com/in/debangshu-chatterjee-858859282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/little.dreams.s?igsh=emE0c3YwczBtdTlk" },
+    { name: "Debangkita Saha", role: "Website Development", image: "/young-female-marketing-student.png", linkedin: "https://www.linkedin.com/in/debangkita-saha-304a3b290/", instagram: "https://www.instagram.com/_urochithii___?utm_source=qr&igsh=MTZ2OWt1Y2pzN2xycQ==" },
+    { name: "Sreyasi Mondal", role: "Registration and Database", image: "/young-male-technical-student.png", linkedin: "https://www.linkedin.com/in/sreyasi-mondal-7337782b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/sreyasi796?igsh=a3V2MW9mOTRkOWkx" },
+    { name: "Debayan De", role: "Research and Development", image: "/young-female-operations-student.png", linkedin: "https://www.linkedin.com/in/debayan-de-a4322728b", instagram: "#" },
+    { name: "Pankaj Gop", role: "Research and Development", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/pankaj-gop-9b606228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", instagram: "https://www.instagram.com/little.dreams.s?igsh=emE0c3YwczBtdTlk" },
+    { name: "Kartik Tulsian", role: "Research and Development", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/kartik-tulsian-682a6128a", instagram: "#" },
+    { name: "Abhijeet Kumar", role: "Logistics", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/abhijeet-kumar-4033b1291", instagram: "#" },
+    { name: "Aritra Chowdhury", role: "Logistics", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/aritra-chowdhury-82201228b/", instagram: "https://www.instagram.com/aritra_rick.c?igsh=MWlyaWN4NjQ3bm5tcA==" },
+    { name: "Kaustav Saha", role: "Logistics", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/kaustav-saha-4b194b28a", instagram: "https://www.instagram.com/__k_a_u_s_t_a_v_?igsh=eHV2ZTQ2MmFzM3dt" },
+    { name: "Praroop Anand", role: "Calling and Mailing", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/praroop-anand-483a13301/", instagram: "https://www.instagram.com/_.praroop._?igsh=MXJkdDV2ZjAxNnIxZA%3D%3D&utm_source=qr" },
+    { name: "Ariktam De", role: "Calling and Mailing", image: "/placeholder.svg?height=120&width=120", linkedin: "#", instagram: "#" },
+    { name: "Alokita Dutta", role: "Public Relation", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/alokita-dutta-9b80a628b/", instagram: "https://www.instagram.com/alokitadutta22/" },
+    { name: "Ananya Mukhopadhyay", role: "Public Relation", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/ananya-mukhopadhyay-4b4b0528a/", instagram: "https://www.instagram.com/a_soulful_voice_20/" },
+    { name: "Anubrata Guin", role: "Graphics and Video Editing", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/anubrata-guin/", instagram: "#" },
+    { name: "Eshita Talukdar", role: "Graphics and Video Editing", image: "/placeholder.svg?height=120&width=120", linkedin: "https://www.linkedin.com/in/eshita-talukdar-2a201a28b/", instagram: "https://www.instagram.com/eshitatalukdar/" },
   ]
 
   // Phone detection (Tailwind "sm" ~640px)
@@ -117,16 +117,22 @@ export default function JudgesSection() {
           {/* 1:1 avatar */}
           <div
             ref={imgWrapRef}
-            className="img-wrap relative w-28 sm:w-32 lg:w-36 rounded-xl overflow-hidden ring-1 ring-white/10 shadow-inner mb-4 transition-transform"
+            className="img-wrap relative w-28 sm:w-32 lg:w-36 rounded-xl overflow-hidden ring-1 ring-white/10 shadow-inner mb-4 transition-transform flex items-center justify-center bg-black"
             style={{ aspectRatio: "1 / 1" }}
           >
             <Image
               src={person.image || "/placeholder.svg"}
               alt={person.name}
               fill
-              className="object-cover"
+              className={`object-contain object-center w-full h-full ${person.image?.includes("comingsoon") ? "bg-black" : ""}`}
               sizes="(min-width:1024px) 9rem, (min-width:640px) 8rem, 7rem"
+              priority={person.image?.includes("comingsoon")}
             />
+            {person.image?.includes("comingsoon") && (
+              <span className="absolute inset-0 flex items-center justify-center text-white text-lg font-bold bg-black/60">
+                Coming Soon
+              </span>
+            )}
           </div>
 
           <h3 className="text-lg font-semibold text-foreground mb-1">{person.name}</h3>
@@ -137,13 +143,25 @@ export default function JudgesSection() {
           )}
 
           <div className="mt-auto flex justify-center gap-3 pt-3">
-            {person.linkedin && (
-              <a href={person.linkedin} aria-label={`${person.name} on LinkedIn`} className="text-muted-foreground hover:text-primary transition-colors">
+            {person.linkedin && person.linkedin !== "#" && (
+              <a
+                href={person.linkedin}
+                aria-label={`${person.name} on LinkedIn`}
+                className="text-muted-foreground hover:text-primary transition-colors"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Linkedin size={20} />
               </a>
             )}
-            {person.instagram && (
-              <a href={person.instagram} aria-label={`${person.name} on Instagram`} className="text-muted-foreground hover:text-primary transition-colors">
+            {person.instagram && person.instagram !== "#" && (
+              <a
+                href={person.instagram}
+                aria-label={`${person.name} on Instagram`}
+                className="text-muted-foreground hover:text-primary transition-colors"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Instagram size={20} />
               </a>
             )}
