@@ -139,7 +139,7 @@ export default function HeroSection() {
           {/* Stats — 2 centered cards */}
           <div className="max-w-3xl mx-auto grid grid-cols-1 sm:grid-cols-2 justify-items-center gap-8 animate-fade-in-up">
             {[
-              { value: "08", label: "HOURS OF CODING" },
+              { value: "09", label: "HOURS OF CODING" },
               { value: "₹20k+", label: "PRIZE POOL" },
             ].map((stat, i) => (
               <div
