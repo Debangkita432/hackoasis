@@ -1,6 +1,6 @@
 "use client"
 
-import { Instagram, Linkedin, Twitter } from "lucide-react"
+import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react"
 import { Orbitron } from "next/font/google"
 
 const orbitron = Orbitron({
@@ -46,14 +46,14 @@ export default function Footer() {
           </p>
 
           <div className="flex items-center justify-center gap-4">
-            <a href="https://instagram.com/your_handle" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="iconLink">
+            <a href="https://www.instagram.com/iemhackoasis2.0?igsh=YmdoMGE2eWw5bmVj" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="iconLink">
               <Instagram className="h-4 w-4 sm:h-5 sm:w-5" />
             </a>
             <a href="https://www.linkedin.com/company/your_company" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="iconLink">
               <Linkedin className="h-4 w-4 sm:h-5 sm:w-5" />
             </a>
-            <a href="https://twitter.com/your_handle" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="iconLink">
-              <Twitter className="h-4 w-4 sm:h-5 sm:w-5" />
+            <a href="https://www.facebook.com/share/1D1VUXVaWi/" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="iconLink">
+              <Facebook className="h-4 w-4 sm:h-5 sm:w-5" />
             </a>
           </div>
         </div>
