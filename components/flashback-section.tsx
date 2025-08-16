@@ -16,15 +16,15 @@ const orbitron = Orbitron({
 });
 
 const topImages = [
-  "/picture1.jpeg",
-  "/picture2.jpeg",
-  "/picture3.jpeg",
-  "/picture4.jpeg",
-  "/picture5.jpeg",
-  "/picture6.jpeg",
-  "/picture7.jpeg",
-  "/picture8.jpeg",
-  "/picture9.jpeg",
+  "/160.JPG",
+  "/191.JPG",
+  "/193.JPG",
+  "/318.JPG",
+  "/326.JPG",
+  "/347.JPG",
+  "/366.JPG",
+  "/494.JPG",
+  "/558.JPG",
 ];
 
 const PictureGallery: React.FC = () => {
